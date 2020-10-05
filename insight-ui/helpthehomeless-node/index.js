@@ -18,7 +18,7 @@ var InsightUI = function(options) {
   }
 };
 
-InsightUI.dependencies = ['@altcoin-cash/insight-api'];
+InsightUI.dependencies = ['@HTHcoin/insight-api'];
 
 inherits(InsightUI, BaseService);
 
