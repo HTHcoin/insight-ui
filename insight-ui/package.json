@@ -86,7 +86,7 @@
   "dependencies": {},
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Helpthehomeless network and build your own services with it.",
   "devDependencies": {
-    "@hthcoin/dp-services-ctl": "^0.7.1",
+   "@dashevo/dp-services-ctl": "^0.14.0",
     "bower": "~1.8.8",
     "chai": "^4.2.0",
     "eslint": "^5.6.1",
