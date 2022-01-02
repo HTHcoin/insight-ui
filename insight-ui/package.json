@@ -23,7 +23,7 @@
     ]
   ],
   "_from": "git+https://github.com/MichaelHDesigns/insight-ui.git",
-  "_id": "@hthcoin/insight-ui@2.0.12",
+  "_id": "@hthcoin/insight-ui",
   "_inCache": true,
   "_location": "/@hthcoin/insight-ui",
   "_phantomChildren": {},
